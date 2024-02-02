@@ -1,0 +1,177 @@
+[
+    {
+        "idPais": "1",
+        "pais": "Alemanha",
+        "foto": "alemanha.svg"
+    },
+    {
+        "idPais": "2",
+        "pais": "Austrália",
+        "foto": "australia.svg"
+    },
+    {
+        "idPais": "3",
+        "pais": "Áustria",
+        "foto": "austria.svg"
+    },
+    {
+        "idPais": "4",
+        "pais": "Bélgica",
+        "foto": "belgica.svg"
+    },
+    {
+        "idPais": "5",
+        "pais": "Brasil",
+        "foto": "brasil.svg"
+    },
+    {
+        "idPais": "6",
+        "pais": "Bulgária",
+        "foto": "bulgaria.svg"
+    },
+    {
+        "idPais": "7",
+        "pais": "Canadá",
+        "foto": "canada.svg"
+    },
+    {
+        "idPais": "8",
+        "pais": "Cidade do Vaticano",
+        "foto": "cidade_vaticano.svg"
+    },
+    {
+        "idPais": "9",
+        "pais": "Croácia",
+        "foto": "croacia.svg"
+    },
+    {
+        "idPais": "10",
+        "pais": "Dinamarca",
+        "foto": "dinamarca.svg"
+    },
+    {
+        "idPais": "11",
+        "pais": "Eslováquia",
+        "foto": "eslovaquia.svg"
+    },
+    {
+        "idPais": "12",
+        "pais": "Eslovênia",
+        "foto": "eslovenia.svg"
+    },
+    {
+        "idPais": "13",
+        "pais": "Espanha",
+        "foto": "espanha.svg"
+    },
+    {
+        "idPais": "14",
+        "pais": "Estados Unidos",
+        "foto": "estados_unidos.svg"
+    },
+    {
+        "idPais": "15",
+        "pais": "Finlândia",
+        "foto": "finlandia.svg"
+    },
+    {
+        "idPais": "16",
+        "pais": "França",
+        "foto": "franca.svg"
+    },
+    {
+        "idPais": "17",
+        "pais": "Grécia",
+        "foto": "grecia.svg"
+    },
+    {
+        "idPais": "18",
+        "pais": "Irlanda",
+        "foto": "irlanda.svg"
+    },
+    {
+        "idPais": "19",
+        "pais": "Israel",
+        "foto": "israel.svg"
+    },
+    {
+        "idPais": "20",
+        "pais": "Itália",
+        "foto": "italia.svg"
+    },
+    {
+        "idPais": "21",
+        "pais": "Japão",
+        "foto": "japao.svg"
+    },
+    {
+        "idPais": "22",
+        "pais": "Luxemburgo",
+        "foto": "luxemburgo.svg"
+    },
+    {
+        "idPais": "23",
+        "pais": "Malta",
+        "foto": "malta.svg"
+    },
+    {
+        "idPais": "24",
+        "pais": "Mônaco",
+        "foto": "monaco.svg"
+    },
+    {
+        "idPais": "25",
+        "pais": "Noruega",
+        "foto": "noruega.svg"
+    },
+    {
+        "idPais": "26",
+        "pais": "Nova Zelândia",
+        "foto": "nova_zelandia.svg"
+    },
+    {
+        "idPais": "27",
+        "pais": "Países Baixos",
+        "foto": "paises_baixos.svg"
+    },
+    {
+        "idPais": "28",
+        "pais": "Polônia",
+        "foto": "polonia.svg"
+    },
+    {
+        "idPais": "29",
+        "pais": "Portugal",
+        "foto": "portugal.svg"
+    },
+    {
+        "idPais": "30",
+        "pais": "Reino Unido",
+        "foto": "reino_unido.svg"
+    },
+    {
+        "idPais": "31",
+        "pais": "República Tcheca",
+        "foto": "republica_tcheca.svg"
+    },
+    {
+        "idPais": "32",
+        "pais": "Romênia",
+        "foto": "romenia.svg"
+    },
+    {
+        "idPais": "33",
+        "pais": "Suécia",
+        "foto": "suecia.svg"
+    },
+    {
+        "idPais": "34",
+        "pais": "Suíça",
+        "foto": "suiça.svg"
+    },
+    {
+        "idPais": "35",
+        "pais": "Turquia",
+        "foto": "turquia.svg"
+    }
+]

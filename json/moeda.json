@@ -1,0 +1,199 @@
+[
+    {
+        "idMoeda": "1",
+        "nome": "Coroa Checa",
+        "sigla": "CZK",
+        "formato": "Kč",
+        "foto": "czk.svg",
+        "pais": [
+            "31"
+        ]
+    },
+    {
+        "idMoeda": "2",
+        "nome": "Coroa Dinamarquesa",
+        "sigla": "DKK",
+        "formato": "kr.",
+        "foto": "dkk.svg",
+        "pais": [
+            "10"
+        ]
+    },
+    {
+        "idMoeda": "3",
+        "nome": "Coroa Norueguesa",
+        "sigla": "NOK",
+        "formato": "kr",
+        "foto": "nok.svg",
+        "pais": [
+            "25"
+        ]
+    },
+    {
+        "idMoeda": "4",
+        "nome": "Coroa Sueca",
+        "sigla": "SEK",
+        "formato": "11,63 kr",
+        "foto": "sek.svg",
+        "pais": [
+            "33"
+        ]
+    },
+    {
+        "idMoeda": "5",
+        "nome": "Dólar Americano",
+        "sigla": "USD",
+        "formato": "$",
+        "foto": "usd.svg",
+        "pais": [
+            "14"
+        ]
+    },
+    {
+        "idMoeda": "6",
+        "nome": "Dólar Australiano",
+        "sigla": "AUD",
+        "formato": "$",
+        "foto": "aud.svg",
+        "pais": [
+            "6"
+        ]
+    },
+    {
+        "idMoeda": "7",
+        "nome": "Dólar Canadense",
+        "sigla": "CAD",
+        "formato": "$",
+        "foto": "cad.svg",
+        "pais": [
+            "77"
+        ]
+    },
+    {
+        "idMoeda": "8",
+        "nome": "Dólar Neozelandês",
+        "sigla": "NZD",
+        "formato": "$",
+        "foto": "nzd.svg",
+        "pais": [
+            "26"
+        ]
+    },
+    {
+        "idMoeda": "9",
+        "nome": "Euro",
+        "sigla": "EUR",
+        "formato": "€",
+        "foto": "euro.svg",
+        "pais": [
+            "1",
+            "3",
+            "4",
+            "8",
+            "9",
+            "11",
+            "12",
+            "18",
+            "20",
+            "24",
+            "29",
+            "13",
+            "15",
+            "16",
+            "17",
+            "22",
+            "23",
+            "27"
+        ]
+    },
+    {
+        "idMoeda": "10",
+        "nome": "Franco Suíço",
+        "sigla": "CHF",
+        "formato": "CHF",
+        "foto": "chf.svg",
+        "pais": [
+            "34"
+        ]
+    },
+    {
+        "idMoeda": "11",
+        "nome": "Lene Japonês",
+        "sigla": "JPY",
+        "formato": "￥",
+        "foto": "jpy.svg",
+        "pais": [
+            "21"
+        ]
+    },
+    {
+        "idMoeda": "12",
+        "nome": "Lev Búlgaro",
+        "sigla": "BGN",
+        "formato": "лв.",
+        "foto": "bgn.svg",
+        "pais": [
+            "6"
+        ]
+    },
+    {
+        "idMoeda": "13",
+        "nome": "Libra Esterlina",
+        "sigla": "GBP",
+        "formato": "£",
+        "foto": "gbp.svg",
+        "pais": [
+            "30"
+        ]
+    },
+    {
+        "idMoeda": "14",
+        "nome": "Lira Turca",
+        "sigla": "TRY",
+        "formato": "₺",
+        "foto": "try.svg",
+        "pais": [
+            "35"
+        ]
+    },
+    {
+        "idMoeda": "15",
+        "nome": "Novo Leu Romeneo",
+        "sigla": "RON",
+        "formato": "lei",
+        "foto": "ron.svg",
+        "pais": [
+            "32"
+        ]
+    },
+    {
+        "idMoeda": "16",
+        "nome": "Real",
+        "sigla": "BRL",
+        "formato": "R$",
+        "foto": "brl.svg",
+        "pais": [
+            "5"
+        ]
+    },
+    {
+        "idMoeda": "17",
+        "nome": "Shekel Israelense",
+        "sigla": "ILS",
+        "formato": "₪",
+        "foto": "ils.svg",
+        "pais": [
+            "19"
+        ]
+    },
+    {
+        "idMoeda": "18",
+        "nome": "Zlóti Polonês",
+        "sigla": "PLN",
+        "formato": "zł",
+        "foto": "pln.svg",
+        "pais": [
+            "28"
+        ]
+    }
+]

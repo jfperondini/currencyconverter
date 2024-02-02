@@ -1,0 +1,1226 @@
+[
+    {
+        "nome": "EURCZK",
+        "valor": 0.64
+    },
+    {
+        "nome": "EURDKK",
+        "valor": 0.58
+    },
+    {
+        "nome": "EURNOK",
+        "valor": 0.61
+    },
+    {
+        "nome": "EURSEK",
+        "valor": 0.58
+    },
+    {
+        "nome": "EURUSD",
+        "valor": 0.61
+    },
+    {
+        "nome": "EURAUD",
+        "valor": 0.58
+    },
+    {
+        "nome": "EURCAD",
+        "valor": 0.65
+    },
+    {
+        "nome": "EURNZD",
+        "valor": 0.60
+    },
+    {
+        "nome": "EUREUR",
+        "valor": 0.04
+    },
+    {
+        "nome": "EURCHF",
+        "valor": 0.63
+    },
+    {
+        "nome": "EURJPY",
+        "valor": 0.78
+    },
+    {
+        "nome": "EURBGN",
+        "valor": 0.74
+    },
+    {
+        "nome": "EURGPB",
+        "valor": 0.60
+    },
+    {
+        "nome": "EURTRY",
+        "valor": 1.22
+    },
+    {
+        "nome": "EURRON",
+        "valor": 1.14
+    },
+    {
+        "nome": "EURBRL",
+        "valor": 1.27
+    },
+    {
+        "nome": "EURILS",
+        "valor": 0.88
+    },
+    {
+        "nome": "EURPLN",
+        "valor": 0.77
+    },
+    {
+        "nome": "USDCZK",
+        "valor": 0.95
+    },
+    {
+        "nome": "USDDKK",
+        "valor": 0.89
+    },
+    {
+        "nome": "USDNOK",
+        "valor": 0.92
+    },
+    {
+        "nome": "USDSEK",
+        "valor": 0.89
+    },
+    {
+        "nome": "USDUSD",
+        "valor": 0.64
+    },
+    {
+        "nome": "USDAUD",
+        "valor": 0.89
+    },
+    {
+        "nome": "USDCAD",
+        "valor": 0.63
+    },
+    {
+        "nome": "USDNZD",
+        "valor": 0.60
+    },
+    {
+        "nome": "USDEUR",
+        "valor": 0.90
+    },
+    {
+        "nome": "USDCHF",
+        "valor": 0.94
+    },
+    {
+        "nome": "USDJPY",
+        "valor": 1.09
+    },
+    {
+        "nome": "USDBGN",
+        "valor": 1.05
+    },
+    {
+        "nome": "USDGBP",
+        "valor": 0.91
+    },
+    {
+        "nome": "USDTRY",
+        "valor": 1.52
+    },
+    {
+        "nome": "USDRON",
+        "valor": 0.64
+    },
+    {
+        "nome": "USDBRL",
+        "valor": 1.58
+    },
+    {
+        "nome": "USDILS",
+        "valor": 1.20
+    },
+    {
+        "nome": "USDPLN",
+        "valor": 1.08
+    },
+    {
+        "nome": "AUDCZK",
+        "valor": 0.57
+    },
+    {
+        "nome": "AUDDKK",
+        "valor": 0.52
+    },
+    {
+        "nome": "AUDNOK",
+        "valor": 0.54
+    },
+    {
+        "nome": "AUDSEK",
+        "valor": 0.51
+    },
+    {
+        "nome": "AUDUSD",
+        "valor": 0.54
+    },
+    {
+        "nome": "AUDAUD",
+        "valor": 0.00
+    },
+    {
+        "nome": "AUDCAD",
+        "valor": 0.59
+    },
+    {
+        "nome": "AUDNZD",
+        "valor": 0.54
+    },
+    {
+        "nome": "AUDEUR",
+        "valor": 0.52
+    },
+    {
+        "nome": "AUDCHF",
+        "valor": 0.56
+    },
+    {
+        "nome": "AUDJPY",
+        "valor": 0.78
+    },
+    {
+        "nome": "AUDBGN",
+        "valor": 0.68
+    },
+    {
+        "nome": "AUDGBP",
+        "valor": 0.53
+    },
+    {
+        "nome": "AUDTRY",
+        "valor": 1.22
+    },
+    {
+        "nome": "AUDRON",
+        "valor": 0.62
+    },
+    {
+        "nome": "AUDBRL",
+        "valor": 1.20
+    },
+    {
+        "nome": "AUDILS",
+        "valor": 0.89
+    },
+    {
+        "nome": "AUDPLN",
+        "valor": 0.71
+    },
+    {
+        "nome": "GBPCZK",
+        "valor": 0.50
+    },
+    {
+        "nome": "GBPDKK",
+        "valor": 0.44
+    },
+    {
+        "nome": "GBPNOK",
+        "valor": 0.46
+    },
+    {
+        "nome": "GBPSEK",
+        "valor": 0.44
+    },
+    {
+        "nome": "GBPUSD",
+        "valor": 0.46
+    },
+    {
+        "nome": "GBPAUD",
+        "valor": 0.44
+    },
+    {
+        "nome": "GBPCAD",
+        "valor": 0.50
+    },
+    {
+        "nome": "GBPNZD",
+        "valor": 0.45
+    },
+    {
+        "nome": "GBPEUR",
+        "valor": 0.45
+    },
+    {
+        "nome": "GBPCHF",
+        "valor": 0.48
+    },
+    {
+        "nome": "GBPJPY",
+        "valor": 0.62
+    },
+    {
+        "nome": "GBPBGN",
+        "valor": 0.60
+    },
+    {
+        "nome": "GBPGBP",
+        "valor": 0.00
+    },
+    {
+        "nome": "GBPTRY",
+        "valor": 1.06
+    },
+    {
+        "nome": "GBPRON",
+        "valor": 0.53
+    },
+    {
+        "nome": "GBPBRL",
+        "valor": 1.13
+    },
+    {
+        "nome": "GBPILS",
+        "valor": 0.72
+    },
+    {
+        "nome": "GBPPLN",
+        "valor": 0.63
+    },
+    {
+        "nome": "CADCZK",
+        "valor": 0.93
+    },
+    {
+        "nome": "CADDKK",
+        "valor": 0.87
+    },
+    {
+        "nome": "CADNOK",
+        "valor": 0.89
+    },
+    {
+        "nome": "CADSEK",
+        "valor": 0.87
+    },
+    {
+        "nome": "CADUSD",
+        "valor": 0.67
+    },
+    {
+        "nome": "CADAUD",
+        "valor": 0.87
+    },
+    {
+        "nome": "CADCAD",
+        "valor": 0.00
+    },
+    {
+        "nome": "CADNZD",
+        "valor": 0.89
+    },
+    {
+        "nome": "CADEUR",
+        "valor": 0.88
+    },
+    {
+        "nome": "CADCHF",
+        "valor": 0.92
+    },
+    {
+        "nome": "CADJPY",
+        "valor": 1.12
+    },
+    {
+        "nome": "CADBGN",
+        "valor": 1.04
+    },
+    {
+        "nome": "CADGBP",
+        "valor": 0.89
+    },
+    {
+        "nome": "CADTRY",
+        "valor": 1.49
+    },
+    {
+        "nome": "CADRON",
+        "valor": 0.75
+    },
+    {
+        "nome": "CADBRL",
+        "valor": 1.56
+    },
+    {
+        "nome": "CADILS",
+        "valor": 1.23
+    },
+    {
+        "nome": "CADPLN",
+        "valor": 1.06
+    },
+    {
+        "nome": "DKKCZK",
+        "valor": 0.87
+    },
+    {
+        "nome": "DKKDKK",
+        "valor": 0.00
+    },
+    {
+        "nome": "DKKNOK",
+        "valor": 0.85
+    },
+    {
+        "nome": "SEKDKK",
+        "valor": 0.84
+    },
+    {
+        "nome": "DKKUSD",
+        "valor": 1.18
+    },
+    {
+        "nome": "DKKAUD",
+        "valor": 0.83
+    },
+    {
+        "nome": "DKKCAD",
+        "valor": 0.96
+    },
+    {
+        "nome": "DKKNZD",
+        "valor": 0.91
+    },
+    {
+        "nome": "DKKEUR",
+        "valor": 0.80
+    },
+    {
+        "nome": "DKKCHF",
+        "valor": 0.93
+    },
+    {
+        "nome": "DKKJPY",
+        "valor": 1.79
+    },
+    {
+        "nome": "DKKBGN",
+        "valor": 1.04
+    },
+    {
+        "nome": "DKKGBP",
+        "valor": 0.82
+    },
+    {
+        "nome": "DKKTRY",
+        "valor": 1.88
+    },
+    {
+        "nome": "DKKRON",
+        "valor": 1.63
+    },
+    {
+        "nome": "DKKBRL",
+        "valor": 1.52
+    },
+    {
+        "nome": "DKKILS",
+        "valor": 2.01
+    },
+    {
+        "nome": "DKKPLN",
+        "valor": 1.06
+    },
+    {
+        "nome": "PLNCZK",
+        "valor": 0.78
+    },
+    {
+        "nome": "PLNDKK",
+        "valor": 0.74
+    },
+    {
+        "nome": "PLNNOK",
+        "valor": 0.74
+    },
+    {
+        "nome": "PLNSEK",
+        "valor": 0.73
+    },
+    {
+        "nome": "PLNUSD",
+        "valor": 0.75
+    },
+    {
+        "nome": "PLNAUD",
+        "valor": 0.73
+    },
+    {
+        "nome": "PLNCAD",
+        "valor": 0.83
+    },
+    {
+        "nome": "PLNNZD",
+        "valor": 0.78
+    },
+    {
+        "nome": "PLNEUR",
+        "valor": 0.72
+    },
+    {
+        "nome": "PLNCHF",
+        "valor": 0.82
+    },
+    {
+        "nome": "PLNJPY",
+        "valor": 1.32
+    },
+    {
+        "nome": "PLNBGN",
+        "valor": 0.95
+    },
+    {
+        "nome": "PLNGBP",
+        "valor": 0.73
+    },
+    {
+        "nome": "PLNTRY",
+        "valor": 1.75
+    },
+    {
+        "nome": "PLNRON",
+        "valor": 1.51
+    },
+    {
+        "nome": "PLNBRL",
+        "valor": 1.42
+    },
+    {
+        "nome": "PLNILS",
+        "valor": 1.53
+    },
+    {
+        "nome": "PLNPLN",
+        "valor": 0.00
+    },
+    {
+        "nome": "SEKCZK",
+        "valor": 1.16
+    },
+    {
+        "nome": "SEKDKK",
+        "valor": 1.18
+    },
+    {
+        "nome": "SEKNOK",
+        "valor": 1.15
+    },
+    {
+        "nome": "SEKSEK",
+        "valor": 0.00
+    },
+    {
+        "nome": "SEKUSD",
+        "valor": 1.17
+    },
+    {
+        "nome": "SEKAUD",
+        "valor": 1.14
+    },
+    {
+        "nome": "SEKCAD",
+        "valor": 1.29
+    },
+    {
+        "nome": "SEKNZD",
+        "valor": 1.25
+    },
+    {
+        "nome": "SEKEUR",
+        "valor": 1.10
+    },
+    {
+        "nome": "SEKCHF",
+        "valor": 1.27
+    },
+    {
+        "nome": "SEKJPY",
+        "valor": 2.42
+    },
+    {
+        "nome": "SEKBGN",
+        "valor": 1.48
+    },
+    {
+        "nome": "SEKGBP",
+        "valor": 1.12
+    },
+    {
+        "nome": "SEKTRY",
+        "valor": 2.89
+    },
+    {
+        "nome": "SEKRON",
+        "valor": 2.28
+    },
+    {
+        "nome": "SEKBRL",
+        "valor": 1.84
+    },
+    {
+        "nome": "SEKILS",
+        "valor": 2.81
+    },
+    {
+        "nome": "SEKPLN",
+        "valor": 1.38
+    },
+    {
+        "nome": "BRLCZK",
+        "valor": 2.24
+    },
+    {
+        "nome": "BRLDKK",
+        "valor": 2.23
+    },
+    {
+        "nome": "BRLNOK",
+        "valor": 2.21
+    },
+    {
+        "nome": "BRLSEK",
+        "valor": 2.21
+    },
+    {
+        "nome": "BRLUSD",
+        "valor": 2.21
+    },
+    {
+        "nome": "BRLAUD",
+        "valor": 2.20
+    },
+    {
+        "nome": "BRLCAD",
+        "valor": 2.30
+    },
+    {
+        "nome": "BRLNZD",
+        "valor": 2.27
+    },
+    {
+        "nome": "BRLEUR",
+        "valor": 2.17
+    },
+    {
+        "nome": "BRLCHF",
+        "valor": 2.30
+    },
+    {
+        "nome": "BRLJPY",
+        "valor": 3.05
+    },
+    {
+        "nome": "BRLBGN",
+        "valor": 2.42
+    },
+    {
+        "nome": "BRLGBP",
+        "valor": 2.19
+    },
+    {
+        "nome": "BRLTRY",
+        "valor": 3.47
+    },
+    {
+        "nome": "BRLRON",
+        "valor": 2.41
+    },
+    {
+        "nome": "BRLBRL",
+        "valor": 0.00
+    },
+    {
+        "nome": "BRLILS",
+        "valor": 3.09
+    },
+    {
+        "nome": "BRLPLN",
+        "valor": 2.40
+    },
+    {
+        "nome": "NOKCZK",
+        "valor": 0.77
+    },
+    {
+        "nome": "NOKDKK",
+        "valor": 0.78
+    },
+    {
+        "nome": "NOKNOK",
+        "valor": 0.00
+    },
+    {
+        "nome": "NOKSEK",
+        "valor": 0.76
+    },
+    {
+        "nome": "NOKUSD",
+        "valor": 0.77
+    },
+    {
+        "nome": "NOKAUD",
+        "valor": 0.74
+    },
+    {
+        "nome": "NOKCAD",
+        "valor": 0.88
+    },
+    {
+        "nome": "NOKNZD",
+        "valor": 0.84
+    },
+    {
+        "nome": "NOKEUR",
+        "valor": 0.71
+    },
+    {
+        "nome": "NOKCHF",
+        "valor": 0.86
+    },
+    {
+        "nome": "NOKJPY",
+        "valor": 2.02
+    },
+    {
+        "nome": "NOKBGN",
+        "valor": 1.08
+    },
+    {
+        "nome": "NOKGBP",
+        "valor": 0.73
+    },
+    {
+        "nome": "NOKTRY",
+        "valor": 2.48
+    },
+    {
+        "nome": "NOKRON",
+        "valor": 1.42
+    },
+    {
+        "nome": "NOKBRL",
+        "valor": 1.45
+    },
+    {
+        "nome": "NOKILS",
+        "valor": 2.34
+    },
+    {
+        "nome": "NOKPLN",
+        "valor": 0.99
+    },
+    {
+        "nome": "NZDCZK",
+        "valor": 0.55
+    },
+    {
+        "nome": "NZDDKK",
+        "valor": 0.49
+    },
+    {
+        "nome": "NZDNOK",
+        "valor": 0.51
+    },
+    {
+        "nome": "NZDSEK",
+        "valor": 0.61
+    },
+    {
+        "nome": "NZDUSD",
+        "valor": 0.52
+    },
+    {
+        "nome": "NZDAUD",
+        "valor": 0.49
+    },
+    {
+        "nome": "NZDCAD",
+        "valor": 0.56
+    },
+    {
+        "nome": "NZDNZD",
+        "valor": 0.69
+    },
+    {
+        "nome": "NZDEUR",
+        "valor": 0.50
+    },
+    {
+        "nome": "NZDCHF",
+        "valor": 0.54
+    },
+    {
+        "nome": "NZDJPY",
+        "valor": 0.77
+    },
+    {
+        "nome": "NZDBGN",
+        "valor": 0.66
+    },
+    {
+        "nome": "NZDGBP",
+        "valor": 0.51
+    },
+    {
+        "nome": "NZDTRY",
+        "valor": 1.27
+    },
+    {
+        "nome": "NZDRON",
+        "valor": 0.60
+    },
+    {
+        "nome": "NZDBRL",
+        "valor": 1.18
+    },
+    {
+        "nome": "NZDILS",
+        "valor": 0.88
+    },
+    {
+        "nome": "NZDPLN",
+        "valor": 0.60
+    },
+    {
+        "nome": "CHFCZK",
+        "valor": 0.59
+    },
+    {
+        "nome": "CHFDKK",
+        "valor": 0.53
+    },
+    {
+        "nome": "CHFNOK",
+        "valor": 0.55
+    },
+    {
+        "nome": "CHFSEK",
+        "valor": 0.53
+    },
+    {
+        "nome": "CHFUSD",
+        "valor": 0.55
+    },
+    {
+        "nome": "CHFAUD",
+        "valor": 0.53
+    },
+    {
+        "nome": "CHFCAD",
+        "valor": 0.59
+    },
+    {
+        "nome": "CHFNZD",
+        "valor": 0.55
+    },
+    {
+        "nome": "CHFEUR",
+        "valor": 0.54
+    },
+    {
+        "nome": "CHFCHF",
+        "valor": 0.00
+    },
+    {
+        "nome": "CHFJPY",
+        "valor": 0.73
+    },
+    {
+        "nome": "CHFBGN",
+        "valor": 0.69
+    },
+    {
+        "nome": "CHFGBP",
+        "valor": 0.55
+    },
+    {
+        "nome": "CHFTRY",
+        "valor": 1.11
+    },
+    {
+        "nome": "CHFRON",
+        "valor": 0.63
+    },
+    {
+        "nome": "CHFBRL",
+        "valor": 1.22
+    },
+    {
+        "nome": "CHFILS",
+        "valor": 0.83
+    },
+    {
+        "nome": "CHFPLN",
+        "valor": 0.72
+    },
+    {
+        "nome": "JPYCZK",
+        "valor": 7.80
+    },
+    {
+        "nome": "JPYDKK",
+        "valor": 8.70
+    },
+    {
+        "nome": "JPYNOK",
+        "valor": 8.00
+    },
+    {
+        "nome": "JPYSEK",
+        "valor": 8.40
+    },
+    {
+        "nome": "JPYUSD",
+        "valor": 8.60
+    },
+    {
+        "nome": "JPYAUD",
+        "valor": 8.20
+    },
+    {
+        "nome": "JPYCAD",
+        "valor": 9.40
+    },
+    {
+        "nome": "JPYNZD",
+        "valor": 9.50
+    },
+    {
+        "nome": "JPYEUR",
+        "valor": 7.50
+    },
+    {
+        "nome": "JPYCHF",
+        "valor": 9.50
+    },
+    {
+        "nome": "JPYJPY",
+        "valor": 0.00
+    },
+    {
+        "nome": "JPYBGN",
+        "valor": 10.80
+    },
+    {
+        "nome": "JPYGBP",
+        "valor": 7.60
+    },
+    {
+        "nome": "JPYTRY",
+        "valor": 24.20
+    },
+    {
+        "nome": "JPYRON",
+        "valor": 10.80
+    },
+    {
+        "nome": "JPYBRL",
+        "valor": 22.20
+    },
+    {
+        "nome": "JPYILS",
+        "valor": 27.90
+    },
+    {
+        "nome": "JPYPLN",
+        "valor": 9.20
+    },
+    {
+        "nome": "RONCZK",
+        "valor": 0.92
+    },
+    {
+        "nome": "RONDKK",
+        "valor": 0.89
+    },
+    {
+        "nome": "RONNOK",
+        "valor": 0.89
+    },
+    {
+        "nome": "RONSEK",
+        "valor": 0.87
+    },
+    {
+        "nome": "RONUSD",
+        "valor": 0.90
+    },
+    {
+        "nome": "RONAUD",
+        "valor": 0.87
+    },
+    {
+        "nome": "RONCAD",
+        "valor": 0.97
+    },
+    {
+        "nome": "RONNZD",
+        "valor": 0.92
+    },
+    {
+        "nome": "RONEUR",
+        "valor": 0.86
+    },
+    {
+        "nome": "RONCHF",
+        "valor": 0.95
+    },
+    {
+        "nome": "RONJPY",
+        "valor": 1.53
+    },
+    {
+        "nome": "RONBGN",
+        "valor": 1.10
+    },
+    {
+        "nome": "RONGBP",
+        "valor": 0.87
+    },
+    {
+        "nome": "RONTRY",
+        "valor": 1.74
+    },
+    {
+        "nome": "RONRON",
+        "valor": 0.00
+    },
+    {
+        "nome": "RONBRL",
+        "valor": 1.56
+    },
+    {
+        "nome": "RONILS",
+        "valor": 1.70
+    },
+    {
+        "nome": "RONPLN",
+        "valor": 1.08
+    },
+    {
+        "nome": "BGNCZK",
+        "valor": 0.80
+    },
+    {
+        "nome": "BGNDKK",
+        "valor": 0.75
+    },
+    {
+        "nome": "BGNNOK",
+        "valor": 0.76
+    },
+    {
+        "nome": "BGNSEK",
+        "valor": 0.74
+    },
+    {
+        "nome": "BGNUSD",
+        "valor": 0.77
+    },
+    {
+        "nome": "BGNAUD",
+        "valor": 0.74
+    },
+    {
+        "nome": "BGNCAD",
+        "valor": 0.82
+    },
+    {
+        "nome": "BGNNZD",
+        "valor": 0.77
+    },
+    {
+        "nome": "BGNEUR",
+        "valor": 0.75
+    },
+    {
+        "nome": "BGNCHF",
+        "valor": 0.79
+    },
+    {
+        "nome": "BGNJPY",
+        "valor": 1.05
+    },
+    {
+        "nome": "BGNBGN",
+        "valor": 0.00
+    },
+    {
+        "nome": "BGNGBP",
+        "valor": 0.76
+    },
+    {
+        "nome": "BGNTRY",
+        "valor": 1.49
+    },
+    {
+        "nome": "BGNRON",
+        "valor": 1.41
+    },
+    {
+        "nome": "BGNBRL",
+        "valor": 1.43
+    },
+    {
+        "nome": "BGNILS",
+        "valor": 1.17
+    },
+    {
+        "nome": "BGNPLN",
+        "valor": 0.94
+    },
+    {
+        "nome": "TRYCZK",
+        "valor": 3.15
+    },
+    {
+        "nome": "TRYDKK",
+        "valor": 3.31
+    },
+    {
+        "nome": "TRYNOK",
+        "valor": 3.14
+    },
+    {
+        "nome": "TRYSEK",
+        "valor": 3.17
+    },
+    {
+        "nome": "TRYUSD",
+        "valor": 3.19
+    },
+    {
+        "nome": "TRYAUD",
+        "valor": 3.15
+    },
+    {
+        "nome": "TRYCAD",
+        "valor": 3.35
+    },
+    {
+        "nome": "TRYNZD",
+        "valor": 3.31
+    },
+    {
+        "nome": "TRYEUR",
+        "valor": 3.10
+    },
+    {
+        "nome": "TRYCHF",
+        "valor": 3.35
+    },
+    {
+        "nome": "TRYJPY",
+        "valor": 5.06
+    },
+    {
+        "nome": "TRYBGN",
+        "valor": 3.68
+    },
+    {
+        "nome": "TRYGBP",
+        "valor": 3.13
+    },
+    {
+        "nome": "TRYTRY",
+        "valor": 0.00
+    },
+    {
+        "nome": "TRYRON",
+        "valor": 3.52
+    },
+    {
+        "nome": "TRYBRL",
+        "valor": 3.89
+    },
+    {
+        "nome": "TRYILS",
+        "valor": 6.02
+    },
+    {
+        "nome": "TRYPLN",
+        "valor": 3.44
+    },
+    {
+        "nome": "ILSCZK",
+        "valor": 0.83
+    },
+    {
+        "nome": "ILSDKK",
+        "valor": 0.79
+    },
+    {
+        "nome": "ILSNOK",
+        "valor": 0.79
+    },
+    {
+        "nome": "ILSSEK",
+        "valor": 0.78
+    },
+    {
+        "nome": "ILSUSD",
+        "valor": 0.80
+    },
+    {
+        "nome": "ILSAUD",
+        "valor": 0.78
+    },
+    {
+        "nome": "ILSCAD",
+        "valor": 0.87
+    },
+    {
+        "nome": "ILSNZD",
+        "valor": 0.82
+    },
+    {
+        "nome": "ILSEUR",
+        "valor": 0.77
+    },
+    {
+        "nome": "ILSCHF",
+        "valor": 0.86
+    },
+    {
+        "nome": "ILSJPY",
+        "valor": 1.24
+    },
+    {
+        "nome": "ILSBGN",
+        "valor": 0.98
+    },
+    {
+        "nome": "ILSGBP",
+        "valor": 0.78
+    },
+    {
+        "nome": "ILSTRY",
+        "valor": 1.63
+    },
+    {
+        "nome": "ILSRON",
+        "valor": 0.92
+    },
+    {
+        "nome": "ILSBRL",
+        "valor": 1.46
+    },
+    {
+        "nome": "ILSILS",
+        "valor": 0.00
+    },
+    {
+        "nome": "ILSPLN",
+        "valor": 0.98
+    }
+]
